@@ -1,0 +1,2760 @@
+{
+  "af": {
+    "tr": {
+      "officialName": "Afganistan İslam Cumhuriyeti",
+      "shortName": "Afganistan",
+      "adjective": "Afgan",
+      "nationality": "Afgan"
+    },
+    "en": {
+      "officialName": "Islamic Republic Of Afghanistan",
+      "shortName": "Afghanistan",
+      "adjective": "Afghan",
+      "nationality": "Afghan"
+    }
+  },
+  "de": {
+    "tr": {
+      "officialName": "Almanya Federal Cumhuriyeti",
+      "shortName": "Almanya",
+      "adjective": "Alman",
+      "nationality": "Alman"
+    },
+    "en": {
+      "officialName": "Federal Republic Of Germany",
+      "shortName": "Germany",
+      "adjective": "German",
+      "nationality": "German"
+    }
+  },
+  "us": {
+    "tr": {
+      "officialName": "Amerika Birleşik Devletleri",
+      "shortName": "Amerika",
+      "adjective": "Amerikan",
+      "nationality": "Amerikalı"
+    },
+    "en": {
+      "officialName": "United States Of America",
+      "shortName": "United States",
+      "adjective": "American",
+      "nationality": "American"
+    }
+  },
+  "ad": {
+    "tr": {
+      "officialName": "Andorra Prensliği",
+      "shortName": "Andorra",
+      "adjective": "Andorra",
+      "nationality": "Andorralı"
+    },
+    "en": {
+      "officialName": "Principality Of Andorra",
+      "shortName": "Andorra",
+      "adjective": "Andorran",
+      "nationality": "Andorran"
+    }
+  },
+  "ao": {
+    "tr": {
+      "officialName": "Angola Cumhuriyeti",
+      "shortName": "Angola",
+      "adjective": "Angola",
+      "nationality": "Angolalı"
+    },
+    "en": {
+      "officialName": "Republic Of Angola",
+      "shortName": "Angola",
+      "adjective": "Angolan",
+      "nationality": "Angolan"
+    }
+  },
+  "ag": {
+    "tr": {
+      "officialName": "Antigua Ve Barbuda",
+      "shortName": "Antigua Ve Barbuda",
+      "adjective": "Antigua Ve Barbuda",
+      "nationality": "Antigua Ve Barbudalı"
+    },
+    "en": {
+      "officialName": "Antigua And Barbuda",
+      "shortName": "Antigua And Barbuda",
+      "adjective": "Antiguan Barbudan",
+      "nationality": "Antiguan Barbudan"
+    }
+  },
+  "ar": {
+    "tr": {
+      "officialName": "Arjantin Cumhuriyeti",
+      "shortName": "Arjantin",
+      "adjective": "Arjantin",
+      "nationality": "Arjantinli"
+    },
+    "en": {
+      "officialName": "Argentine Republic",
+      "shortName": "Argentine",
+      "adjective": "Argentinian",
+      "nationality": "Argentinian"
+    }
+  },
+  "al": {
+    "tr": {
+      "officialName": "Arnavutluk Cumhuriyeti",
+      "shortName": "Arnavutluk",
+      "adjective": "Arnavut",
+      "nationality": "Arnavut"
+    },
+    "en": {
+      "officialName": "Republic Of Albania",
+      "shortName": "Albania",
+      "adjective": "Albanian",
+      "nationality": "Albanian"
+    }
+  },
+  "au": {
+    "tr": {
+      "officialName": "Avustralya Devleti",
+      "shortName": "Avustralya",
+      "adjective": "Avustralya",
+      "nationality": "Avustralyalı"
+    },
+    "en": {
+      "officialName": "Commonwealth Of Australia",
+      "shortName": "Australia",
+      "adjective": "Australian",
+      "nationality": "Australian"
+    }
+  },
+  "at": {
+    "tr": {
+      "officialName": "Avusturya Cumhuriyeti",
+      "shortName": "Avusturya",
+      "adjective": "Avusturya",
+      "nationality": "Avusturyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Austria",
+      "shortName": "Austria",
+      "adjective": "Austrian",
+      "nationality": "Austrian"
+    }
+  },
+  "az": {
+    "tr": {
+      "officialName": "Azerbaycan Cumhuriyeti",
+      "shortName": "Azerbaycan",
+      "adjective": "Azerbaycan",
+      "nationality": "Azerbaycanlı"
+    },
+    "en": {
+      "officialName": "Republic Of Azerbaijan",
+      "shortName": "Azerbaijan",
+      "adjective": "Azerbaijani",
+      "nationality": "Azerbaijani"
+    }
+  },
+  "bs": {
+    "tr": {
+      "officialName": "Bahamalar",
+      "shortName": "Bahamalar",
+      "adjective": "Bahamalar",
+      "nationality": "Bahamalı"
+    },
+    "en": {
+      "officialName": "Commonwealth Of The Bahamas",
+      "shortName": "Bahamas",
+      "adjective": "Bahamian",
+      "nationality": "Bahamian"
+    }
+  },
+  "bh": {
+    "tr": {
+      "officialName": "Bahreyn Krallığı",
+      "shortName": "Bahreyn",
+      "adjective": "Bahreyn",
+      "nationality": "Bahreynli"
+    },
+    "en": {
+      "officialName": "Kingdom Of Bahrain",
+      "shortName": "Bahrain",
+      "adjective": "Bahraini",
+      "nationality": "Bahraini"
+    }
+  },
+  "bd": {
+    "tr": {
+      "officialName": "Bangladeş Halk Cumhuriyeti",
+      "shortName": "Bangladeş",
+      "adjective": "Bangladeş",
+      "nationality": "Bangladeşli"
+    },
+    "en": {
+      "officialName": "People#S Republic Of Bangladesh",
+      "shortName": "Bangladesh",
+      "adjective": "Bangladeshi",
+      "nationality": "Bangladeshi"
+    }
+  },
+  "bb": {
+    "tr": {
+      "officialName": "Barbados",
+      "shortName": "Barbados",
+      "adjective": "Barbados",
+      "nationality": "Barbadoslu"
+    },
+    "en": {
+      "officialName": "Barbados",
+      "shortName": "Barbados",
+      "adjective": "Barbadian",
+      "nationality": "Barbadian"
+    }
+  },
+  "by": {
+    "tr": {
+      "officialName": "Belarus Cumhuriyeti",
+      "shortName": "Belarus",
+      "adjective": "Belarus",
+      "nationality": "Belaruslu"
+    },
+    "en": {
+      "officialName": "Republic Of Belarus",
+      "shortName": "Belarus",
+      "adjective": "Belarusian",
+      "nationality": "Belarusian"
+    }
+  },
+  "be": {
+    "tr": {
+      "officialName": "Belçika  Krallığı",
+      "shortName": "Belçika",
+      "adjective": "Belçika",
+      "nationality": "Belçikalı"
+    },
+    "en": {
+      "officialName": "Kingdom Of Belgium",
+      "shortName": "Belgium",
+      "adjective": "Belgian",
+      "nationality": "Belgian"
+    }
+  },
+  "bz": {
+    "tr": {
+      "officialName": "Belize",
+      "shortName": "Belize",
+      "adjective": "Belize",
+      "nationality": "Belizeli"
+    },
+    "en": {
+      "officialName": "Belize",
+      "shortName": "Belize",
+      "adjective": "Belizean",
+      "nationality": "Belizean"
+    }
+  },
+  "bj": {
+    "tr": {
+      "officialName": "Benin Cumhuriyeti",
+      "shortName": "Benin",
+      "adjective": "Benin",
+      "nationality": "Beninli"
+    },
+    "en": {
+      "officialName": "Republic Of Benin",
+      "shortName": "Benin",
+      "adjective": "Beninese",
+      "nationality": "Beninese"
+    }
+  },
+  "ae": {
+    "tr": {
+      "officialName": "Birleşik Arap Emirlikleri",
+      "shortName": "Birleşik Arap Emirlikleri",
+      "adjective": "Birleşik Arap Emirlikleri",
+      "nationality": "Birleşik Arap Emirlikleri"
+    },
+    "en": {
+      "officialName": "United Arab Emirates",
+      "shortName": "United Arab Emirates",
+      "adjective": "United Arab Emirates",
+      "nationality": "United Arab Emirates"
+    }
+  },
+  "mx": {
+    "tr": {
+      "officialName": "Birleşik Meksika Devletleri",
+      "shortName": "Meksika",
+      "adjective": "Meksika",
+      "nationality": "Meksikalı"
+    },
+    "en": {
+      "officialName": "United Mexican States",
+      "shortName": "Mexico",
+      "adjective": "Mexican",
+      "nationality": "Mexican"
+    }
+  },
+  "ve": {
+    "tr": {
+      "officialName": "Bolivarcı Venezuela  Cumhuriyeti",
+      "shortName": "Venezuela",
+      "adjective": "Venezuela",
+      "nationality": "Venezuelalı"
+    },
+    "en": {
+      "officialName": "Bolivarian Republic Of Venezuela",
+      "shortName": "Venezuela",
+      "adjective": "Venezuelan",
+      "nationality": "Venezuelan"
+    }
+  },
+  "bo": {
+    "tr": {
+      "officialName": "Bolivya Çokuluslu Devleti",
+      "shortName": "Bolivya",
+      "adjective": "Bolivya",
+      "nationality": "Bolivyalı"
+    },
+    "en": {
+      "officialName": "Plurinational State Of Bolivia",
+      "shortName": "Bolivia",
+      "adjective": "Bolivian",
+      "nationality": "Bolivian"
+    }
+  },
+  "ba": {
+    "tr": {
+      "officialName": "Bosna Hersek",
+      "shortName": "Bosna Hersek",
+      "adjective": "Bosna Hersek",
+      "nationality": "Bosna Hersekli"
+    },
+    "en": {
+      "officialName": "Bosnia And Herzegovina",
+      "shortName": "Bosnia And Herzegovina",
+      "adjective": "Bosnian",
+      "nationality": "Bosnian"
+    }
+  },
+  "bw": {
+    "tr": {
+      "officialName": "Botsvana Cumhuriyeti",
+      "shortName": "Botsvana",
+      "adjective": "Botsvana",
+      "nationality": "Botsvanalı"
+    },
+    "en": {
+      "officialName": "Republic Of Botswana",
+      "shortName": "Botswana",
+      "adjective": "Botswana",
+      "nationality": "Botswana"
+    }
+  },
+  "br": {
+    "tr": {
+      "officialName": "Brezilya Federatif Cumhuriyeti",
+      "shortName": "Brezilya",
+      "adjective": "Brezilya",
+      "nationality": "Brezilyalı"
+    },
+    "en": {
+      "officialName": "Federative Republic Of Brazil",
+      "shortName": "Brazil",
+      "adjective": "Brazilian",
+      "nationality": "Brazilian"
+    }
+  },
+  "bn": {
+    "tr": {
+      "officialName": "Brunei  Darusselam",
+      "shortName": "Brunei  Darusselam",
+      "adjective": "Brunei  Darusselam",
+      "nationality": "Brunei  Darusselamlı"
+    },
+    "en": {
+      "officialName": "Brunei Darussalam",
+      "shortName": "Brunei Darussalam",
+      "adjective": "Bruneian",
+      "nationality": "Bruneian"
+    }
+  },
+  "bg": {
+    "tr": {
+      "officialName": "Bulgaristan Cumhuriyeti",
+      "shortName": "Bulgaristan",
+      "adjective": "Bulgar",
+      "nationality": "Bulgar"
+    },
+    "en": {
+      "officialName": "Republic Of Bulgaria",
+      "shortName": "Bulgaria",
+      "adjective": "Bulgarian",
+      "nationality": "Bulgarian"
+    }
+  },
+  "bf": {
+    "tr": {
+      "officialName": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "adjective": "Burkina Faso",
+      "nationality": "Burkina Fasolu"
+    },
+    "en": {
+      "officialName": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "adjective": "Burkinabe",
+      "nationality": "Burkinabe"
+    }
+  },
+  "bı": {
+    "tr": {
+      "officialName": "Burundi Cumhuriyeti",
+      "shortName": "Burundi",
+      "adjective": "Burundi",
+      "nationality": "Burundili"
+    },
+    "en": {
+      "officialName": "Republic Of Burundi",
+      "shortName": "Burundi",
+      "adjective": "Burundian",
+      "nationality": "Burundian"
+    }
+  },
+  "bt": {
+    "tr": {
+      "officialName": "Butan Krallığı",
+      "shortName": "Butan",
+      "adjective": "Bhutan",
+      "nationality": "Butanlı"
+    },
+    "en": {
+      "officialName": "Kingdom Of Bhutan",
+      "shortName": "Bhutan",
+      "adjective": "Bhutanese",
+      "nationality": "Bhutanese"
+    }
+  },
+  "gb": {
+    "tr": {
+      "officialName": "Büyük Britanya Ve Kuzey İrlanda Birleşik Krallığı",
+      "shortName": "İngiltere",
+      "adjective": "İngiliz",
+      "nationality": "İngiliz"
+    },
+    "en": {
+      "officialName": "United Kingdom Of Great Britain And Northern Ireland",
+      "shortName": "United Kingdom",
+      "adjective": "British",
+      "nationality": "British"
+    }
+  },
+  "dz": {
+    "tr": {
+      "officialName": "Cezayir Demokratik Halk Cumhuriyeti",
+      "shortName": "Cezayir",
+      "adjective": "Cezayir",
+      "nationality": "Cezayirli"
+    },
+    "en": {
+      "officialName": "People#S Democratic Republic Of Algeria",
+      "shortName": "Algeria",
+      "adjective": "Algerian",
+      "nationality": "Algerian"
+    }
+  },
+  "dj": {
+    "tr": {
+      "officialName": "Cibuti Cumhuriyeti",
+      "shortName": "Cibuti",
+      "adjective": "Cibuti",
+      "nationality": "Cibutili"
+    },
+    "en": {
+      "officialName": "Republic Of Djibouti",
+      "shortName": "Djibouti",
+      "adjective": "Djiboutian",
+      "nationality": "Djiboutian"
+    }
+  },
+  "td": {
+    "tr": {
+      "officialName": "Çad Cumhuriyeti",
+      "shortName": "Çad",
+      "adjective": "Çad",
+      "nationality": "Çadlı"
+    },
+    "en": {
+      "officialName": "Republic Of Chad",
+      "shortName": "Chad",
+      "adjective": "Chadian",
+      "nationality": "Chadian"
+    }
+  },
+  "cz": {
+    "tr": {
+      "officialName": "Çek Cumhuriyeti",
+      "shortName": "Çek Cumhuriyeti",
+      "adjective": "Çek Cumhuriyeti",
+      "nationality": "Çek"
+    },
+    "en": {
+      "officialName": "Czech Republic",
+      "shortName": "Czech",
+      "adjective": "Czech",
+      "nationality": "Czech"
+    }
+  },
+  "cn": {
+    "tr": {
+      "officialName": "Çin Halk Cumhuriyeti",
+      "shortName": "Çin",
+      "adjective": "Çin",
+      "nationality": "Çinli"
+    },
+    "en": {
+      "officialName": "People#S Republic Of China",
+      "shortName": "China",
+      "adjective": "Chinese",
+      "nationality": "Chinese"
+    }
+  },
+  "dk": {
+    "tr": {
+      "officialName": "Danimarka Krallığı",
+      "shortName": "Danimarka",
+      "adjective": "Danimarka",
+      "nationality": "Danimarkalı"
+    },
+    "en": {
+      "officialName": "Kingdom Of Denmark",
+      "shortName": "Denmark",
+      "adjective": "Danish",
+      "nationality": "Dane"
+    }
+  },
+  "tl": {
+    "tr": {
+      "officialName": "Doğu Timor Cumhuriyeti",
+      "shortName": "Doğu Timor",
+      "adjective": "Doğu Timor",
+      "nationality": "Doğu Timorlu"
+    },
+    "en": {
+      "officialName": "Democratic Republic Of Timor-Leste",
+      "shortName": "Timor-Leste",
+      "adjective": "East Timorese",
+      "nationality": "East Timorese"
+    }
+  },
+  "do": {
+    "tr": {
+      "officialName": "Dominik Cumhuriyeti",
+      "shortName": "Dominik Cumhuriyeti",
+      "adjective": "Dominik",
+      "nationality": "Dominikli"
+    },
+    "en": {
+      "officialName": "Dominican Republic",
+      "shortName": "Dominican Republic",
+      "adjective": "Dominican",
+      "nationality": "Dominican"
+    }
+  },
+  "dm": {
+    "tr": {
+      "officialName": "Dominika",
+      "shortName": "Dominika",
+      "adjective": "Dominika",
+      "nationality": "Dominikalı"
+    },
+    "en": {
+      "officialName": "Commonwealth Of Dominica",
+      "shortName": "Dominica",
+      "adjective": "Dominican",
+      "nationality": "Dominica"
+    }
+  },
+  "ec": {
+    "tr": {
+      "officialName": "Ekvator Cumhuriyeti",
+      "shortName": "Ekvator",
+      "adjective": "Ekvator",
+      "nationality": "Ekvatorlu"
+    },
+    "en": {
+      "officialName": "Republic Of Ecuador",
+      "shortName": "Ecuador",
+      "adjective": "Ecuadorian",
+      "nationality": "Ecuadorian"
+    }
+  },
+  "gq": {
+    "tr": {
+      "officialName": "Ekvator Ginesi Cumhuriyeti",
+      "shortName": "Ekvator Ginesi",
+      "adjective": "Ekvator Ginesi",
+      "nationality": "Ekvator Gineli"
+    },
+    "en": {
+      "officialName": "Republic Of Equatorial Guinea",
+      "shortName": "Equatorial Guinea",
+      "adjective": "Equatorial Guinean",
+      "nationality": "Equatorial Guinean"
+    }
+  },
+  "sv": {
+    "tr": {
+      "officialName": "El Salvador Cumhuriyeti",
+      "shortName": "El Salvador",
+      "adjective": "El Salvador",
+      "nationality": "El Salvadorlu"
+    },
+    "en": {
+      "officialName": "Republic Of El Salvador",
+      "shortName": "El Salvador",
+      "adjective": "Salvadoran",
+      "nationality": "Salvadoran"
+    }
+  },
+  "ıd": {
+    "tr": {
+      "officialName": "Endonezya Cumhuriyeti",
+      "shortName": "Endonezya",
+      "adjective": "Endonezya",
+      "nationality": "Endonezyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Indonesia",
+      "shortName": "Indonesia",
+      "adjective": "Indonesian",
+      "nationality": "Indonesian"
+    }
+  },
+  "er": {
+    "tr": {
+      "officialName": "Eritre Devleti",
+      "shortName": "Eritre",
+      "adjective": "Eritre",
+      "nationality": "Eritreli"
+    },
+    "en": {
+      "officialName": "State Of Eritrea",
+      "shortName": "Eritrea",
+      "adjective": "Eritrean",
+      "nationality": "Eritrean"
+    }
+  },
+  "am": {
+    "tr": {
+      "officialName": "Ermenistan Cumhuriyeti",
+      "shortName": "Ermenistan",
+      "adjective": "Ermeni",
+      "nationality": "Ermeni"
+    },
+    "en": {
+      "officialName": "Republic Of Armenia",
+      "shortName": "Armenia",
+      "adjective": "Armenian",
+      "nationality": "Armenian"
+    }
+  },
+  "ee": {
+    "tr": {
+      "officialName": "Estonya Cumhuriyeti",
+      "shortName": "Estonya",
+      "adjective": "Eston",
+      "nationality": "Eston"
+    },
+    "en": {
+      "officialName": "Republic Of Estonia",
+      "shortName": "Estonia",
+      "adjective": "Estonian",
+      "nationality": "Estonian"
+    }
+  },
+  "et": {
+    "tr": {
+      "officialName": "Etiyopya Federal Demokratik Cumhuriyeti",
+      "shortName": "Etiyopya",
+      "adjective": "Etiyopya",
+      "nationality": "Etiyopyalı"
+    },
+    "en": {
+      "officialName": "Federal Democratic Republic Of Ethiopia",
+      "shortName": "Ethiopia",
+      "adjective": "Ethiopian",
+      "nationality": "Ethiopian"
+    }
+  },
+  "ma": {
+    "tr": {
+      "officialName": "Fas Krallığı",
+      "shortName": "Fas",
+      "adjective": "Fas",
+      "nationality": "Faslı"
+    },
+    "en": {
+      "officialName": "Kingdom Of Morocco",
+      "shortName": "Morocco",
+      "adjective": "Moroccan",
+      "nationality": "Moroccan"
+    }
+  },
+  "fj": {
+    "tr": {
+      "officialName": "Fiji Adaları Cumhuriyeti",
+      "shortName": "Fiji",
+      "adjective": "Fiji",
+      "nationality": "Fijili"
+    },
+    "en": {
+      "officialName": "Republic Of Fiji",
+      "shortName": "Fiji",
+      "adjective": "Fijian",
+      "nationality": "Fijian"
+    }
+  },
+  "cı": {
+    "tr": {
+      "officialName": "Fildişi Sahili Cumhuriyeti",
+      "shortName": "Fildişi Sahili",
+      "adjective": "Fildişi Sahili",
+      "nationality": "Fildişili"
+    },
+    "en": {
+      "officialName": "Republic Of Côte D#Ivoire",
+      "shortName": "Côte D#Ivoire",
+      "adjective": "Ivorian",
+      "nationality": "Ivorian"
+    }
+  },
+  "ph": {
+    "tr": {
+      "officialName": "Filipinler Cumhuriyeti",
+      "shortName": "Filipinler",
+      "adjective": "Filipinler",
+      "nationality": "Filipinli"
+    },
+    "en": {
+      "officialName": "Republic Of The Philippines",
+      "shortName": "Philippines",
+      "adjective": "Philippine",
+      "nationality": "Filipino"
+    }
+  },
+  "ps": {
+    "tr": {
+      "officialName": "Filistin Devleti",
+      "shortName": "Filistin",
+      "adjective": "Filistin",
+      "nationality": "Filistinli"
+    },
+    "en": {
+      "officialName": "State Of Palestine",
+      "shortName": "Palestine",
+      "adjective": "Palestinian",
+      "nationality": "Palestinian"
+    }
+  },
+  "fı": {
+    "tr": {
+      "officialName": "Finlandiya Cumhuriyeti",
+      "shortName": "Finlandiya",
+      "adjective": "Fin",
+      "nationality": "Fin"
+    },
+    "en": {
+      "officialName": "Republic Of Finland",
+      "shortName": "Finland",
+      "adjective": "Finnish",
+      "nationality": "Finn"
+    }
+  },
+  "fr": {
+    "tr": {
+      "officialName": "Fransa Cumhuriyeti",
+      "shortName": "Fransa",
+      "adjective": "Fransız",
+      "nationality": "Fransız"
+    },
+    "en": {
+      "officialName": "French Republic",
+      "shortName": "France",
+      "adjective": "French",
+      "nationality": "French"
+    }
+  },
+  "ga": {
+    "tr": {
+      "officialName": "Gabon Cumhuriyeti",
+      "shortName": "Gabon",
+      "adjective": "Gabon",
+      "nationality": "Gabonlu"
+    },
+    "en": {
+      "officialName": "Gabonese Republic",
+      "shortName": "Gabon",
+      "adjective": "Gabonese",
+      "nationality": "Gabonese"
+    }
+  },
+  "gm": {
+    "tr": {
+      "officialName": "Gambiya Cumhuriyeti",
+      "shortName": "Gambiya",
+      "adjective": "Gambiya",
+      "nationality": "Gambiyalı"
+    },
+    "en": {
+      "officialName": "Republic Of The Gambia",
+      "shortName": "Gambia",
+      "adjective": "Gambian",
+      "nationality": "Gambian"
+    }
+  },
+  "gh": {
+    "tr": {
+      "officialName": "Gana Cumhuriyeti",
+      "shortName": "Gana",
+      "adjective": "Gana",
+      "nationality": "Ganalı"
+    },
+    "en": {
+      "officialName": "Republic Of Ghana",
+      "shortName": "Ghana",
+      "adjective": "Ghanaian",
+      "nationality": "Ghanaian"
+    }
+  },
+  "gn": {
+    "tr": {
+      "officialName": "Gine Cumhuriyeti",
+      "shortName": "Gine",
+      "adjective": "Gine",
+      "nationality": "Gineli"
+    },
+    "en": {
+      "officialName": "Republic Of Guinea",
+      "shortName": "Guinea",
+      "adjective": "Guinean",
+      "nationality": "Guinean"
+    }
+  },
+  "gw": {
+    "tr": {
+      "officialName": "Gine-Bissau Cumhuriyeti",
+      "shortName": "Gine-Bissau",
+      "adjective": "Gine-Bissau",
+      "nationality": "Gine-Bissaulu"
+    },
+    "en": {
+      "officialName": "Republic Of Guinea-Bissau",
+      "shortName": "Guinea-Bissau",
+      "adjective": "Guinean",
+      "nationality": "Guinea-Bissau"
+    }
+  },
+  "gd": {
+    "tr": {
+      "officialName": "Grenada",
+      "shortName": "Grenada",
+      "adjective": "Grenada",
+      "nationality": "Grenadalı"
+    },
+    "en": {
+      "officialName": "Grenada",
+      "shortName": "Grenada",
+      "adjective": "Grenadian",
+      "nationality": "Grenadian"
+    }
+  },
+  "gt": {
+    "tr": {
+      "officialName": "Guatemala Cumhuriyeti",
+      "shortName": "Guatemala",
+      "adjective": "Guatemala",
+      "nationality": "Guatemalalı"
+    },
+    "en": {
+      "officialName": "Republic Of Guatemala",
+      "shortName": "Guatemala",
+      "adjective": "Guatemalan",
+      "nationality": "Guatemalan"
+    }
+  },
+  "gy": {
+    "tr": {
+      "officialName": "Guyana Kooperatif Cumhuriyeti",
+      "shortName": "Guyana",
+      "adjective": "Guyana",
+      "nationality": "Guyanalı"
+    },
+    "en": {
+      "officialName": "Cooperative Republic Of Guyana",
+      "shortName": "Guyana",
+      "adjective": "Guyanese",
+      "nationality": "Guyanese"
+    }
+  },
+  "za": {
+    "tr": {
+      "officialName": "Güney Afrika Cumhuriyeti",
+      "shortName": "Güney Afrika",
+      "adjective": "Güney Afrika",
+      "nationality": "Güney Afrikalı"
+    },
+    "en": {
+      "officialName": "Republic Of South Africa",
+      "shortName": "South Africa",
+      "adjective": "South African",
+      "nationality": "South African"
+    }
+  },
+  "cy": {
+    "tr": {
+      "officialName": "Güney Kıbrıs Rum Yönetimi",
+      "shortName": "Güney Kıbrıs",
+      "adjective": "Kıbrıs Rum",
+      "nationality": "Kıbrıslı Rum"
+    },
+    "en": {
+      "officialName": "Greek Cypriot Administration Of Southern Cyprus",
+      "shortName": "Southern Cyprus",
+      "adjective": "Greek Cypriot",
+      "nationality": "Greek Cypriot"
+    }
+  },
+  "ss": {
+    "tr": {
+      "officialName": "Güney Sudan Cumhuriyeti",
+      "shortName": "Güney Sudan",
+      "adjective": "Güney Sudan",
+      "nationality": "Güney Sudanlı"
+    },
+    "en": {
+      "officialName": "Republic Of South Sudan",
+      "shortName": "South Sudan",
+      "adjective": "South Sudanese",
+      "nationality": "South Sudanese"
+    }
+  },
+  "ge": {
+    "tr": {
+      "officialName": "Gürcistan Cumhuriyeti",
+      "shortName": "Gürcistan",
+      "adjective": "Gürcü",
+      "nationality": "Gürcü"
+    },
+    "en": {
+      "officialName": "Republic Of Georgia",
+      "shortName": "Georgia",
+      "adjective": "Georgian",
+      "nationality": "Georgian"
+    }
+  },
+  "ht": {
+    "tr": {
+      "officialName": "Haiti Cumhuriyeti",
+      "shortName": "Haiti",
+      "adjective": "Haiti",
+      "nationality": "Haitili"
+    },
+    "en": {
+      "officialName": "Republic Of Haiti",
+      "shortName": "Haiti",
+      "adjective": "Haitian",
+      "nationality": "Haitian"
+    }
+  },
+  "hr": {
+    "tr": {
+      "officialName": "Hırvatistan Cumhuriyeti",
+      "shortName": "Hırvatistan",
+      "adjective": "Hırvat",
+      "nationality": "Hırvat"
+    },
+    "en": {
+      "officialName": "Republic Of Croatia",
+      "shortName": "Croatia",
+      "adjective": "Croatian",
+      "nationality": "Croatian"
+    }
+  },
+  "ın": {
+    "tr": {
+      "officialName": "Hindistan Cumhuriyeti",
+      "shortName": "Hindistan",
+      "adjective": "Hint",
+      "nationality": "Hintli"
+    },
+    "en": {
+      "officialName": "Republic Of India",
+      "shortName": "India",
+      "adjective": "Indian",
+      "nationality": "Indian"
+    }
+  },
+  "nl": {
+    "tr": {
+      "officialName": "Hollanda Krallığı",
+      "shortName": "Hollanda",
+      "adjective": "Hollanda",
+      "nationality": "Hollandalı"
+    },
+    "en": {
+      "officialName": "Kingdom Of The Netherlands",
+      "shortName": "Netherlands",
+      "adjective": "Dutch",
+      "nationality": "Dutch"
+    }
+  },
+  "hn": {
+    "tr": {
+      "officialName": "Honduras Cumhuriyeti",
+      "shortName": "Honduras",
+      "adjective": "Honduras",
+      "nationality": "Honduraslı"
+    },
+    "en": {
+      "officialName": "Republic Of Honduras",
+      "shortName": "Honduras",
+      "adjective": "Honduran",
+      "nationality": "Honduran"
+    }
+  },
+  "ıq": {
+    "tr": {
+      "officialName": "Irak Cumhuriyeti",
+      "shortName": "Irak",
+      "adjective": "Irak",
+      "nationality": "Iraklı"
+    },
+    "en": {
+      "officialName": "Republic Of Iraq",
+      "shortName": "Iraq",
+      "adjective": "Iraqi",
+      "nationality": "Iraqi"
+    }
+  },
+  "ır": {
+    "tr": {
+      "officialName": "İran  İslam Cumhuriyeti",
+      "shortName": "İran",
+      "adjective": "İran",
+      "nationality": "İranlı"
+    },
+    "en": {
+      "officialName": "Islamic Republic Of Iran",
+      "shortName": "Iran",
+      "adjective": "Iranian",
+      "nationality": "Iranian"
+    }
+  },
+  "ıe": {
+    "tr": {
+      "officialName": "İrlanda Cumhuriyeti",
+      "shortName": "İrlanda",
+      "adjective": "İrlanda",
+      "nationality": "İrlandalı"
+    },
+    "en": {
+      "officialName": "Republic Of Ireland",
+      "shortName": "Ireland",
+      "adjective": "Irish",
+      "nationality": "Irish"
+    }
+  },
+  "es": {
+    "tr": {
+      "officialName": "İspanya Krallığı",
+      "shortName": "İspanya",
+      "adjective": "İspanyol",
+      "nationality": "İspanyol"
+    },
+    "en": {
+      "officialName": "Kingdom Of Spain",
+      "shortName": "Spain",
+      "adjective": "Spanish",
+      "nationality": "Spanish"
+    }
+  },
+  "ıl": {
+    "tr": {
+      "officialName": "İsrail Devleti",
+      "shortName": "İsrail",
+      "adjective": "İsrail",
+      "nationality": "İsrailli"
+    },
+    "en": {
+      "officialName": "State Of Israel",
+      "shortName": "Israel",
+      "adjective": "Israeli",
+      "nationality": "Israeli"
+    }
+  },
+  "se": {
+    "tr": {
+      "officialName": "İsveç Krallığı",
+      "shortName": "İsveç",
+      "adjective": "İsveç",
+      "nationality": "İsveçli"
+    },
+    "en": {
+      "officialName": "Kingdom Of Sweden",
+      "shortName": "Sweden",
+      "adjective": "Swedish",
+      "nationality": "Swede"
+    }
+  },
+  "ch": {
+    "tr": {
+      "officialName": "İsviçre Konfederasyonu",
+      "shortName": "İsviçre",
+      "adjective": "İsviçre",
+      "nationality": "İsviçreli"
+    },
+    "en": {
+      "officialName": "Swiss Confederation",
+      "shortName": "Swiss",
+      "adjective": "Swiss",
+      "nationality": "Swiss"
+    }
+  },
+  "ıt": {
+    "tr": {
+      "officialName": "İtalya Cumhuriyeti",
+      "shortName": "İtalya",
+      "adjective": "İtalyan",
+      "nationality": "İtalyan"
+    },
+    "en": {
+      "officialName": "Italian Republic",
+      "shortName": "Italy",
+      "adjective": "Italian",
+      "nationality": "Italian"
+    }
+  },
+  "ıs": {
+    "tr": {
+      "officialName": "İzlanda Cumhuriyeti",
+      "shortName": "İzlanda",
+      "adjective": "İzlanda",
+      "nationality": "İzlandalı"
+    },
+    "en": {
+      "officialName": "Republic Of Iceland",
+      "shortName": "Iceland",
+      "adjective": "Icelandic",
+      "nationality": "Icelander"
+    }
+  },
+  "jm": {
+    "tr": {
+      "officialName": "Jamaika",
+      "shortName": "Jamaika",
+      "adjective": "Jamaika",
+      "nationality": "Jamaikalı"
+    },
+    "en": {
+      "officialName": "Jamaica",
+      "shortName": "Jamaica",
+      "adjective": "Jamaican",
+      "nationality": "Jamaican"
+    }
+  },
+  "jp": {
+    "tr": {
+      "officialName": "Japonya",
+      "shortName": "Japonya",
+      "adjective": "Japon",
+      "nationality": "Japon"
+    },
+    "en": {
+      "officialName": "Japan",
+      "shortName": "Japan",
+      "adjective": "Japanese",
+      "nationality": "Japanese"
+    }
+  },
+  "kh": {
+    "tr": {
+      "officialName": "Kamboçya Krallığı",
+      "shortName": "Kamboçya",
+      "adjective": "Kamboçya",
+      "nationality": "Kamboçyalı"
+    },
+    "en": {
+      "officialName": "Kingdom Of Cambodia",
+      "shortName": "Cambodia",
+      "adjective": "Cambodian",
+      "nationality": "Cambodian"
+    }
+  },
+  "cm": {
+    "tr": {
+      "officialName": "Kamerun Cumhuriyeti",
+      "shortName": "Kamerun",
+      "adjective": "Kamerun",
+      "nationality": "Kamerunlu"
+    },
+    "en": {
+      "officialName": "Republic Of Cameroon",
+      "shortName": "Cameroon",
+      "adjective": "Cameroonian",
+      "nationality": "Cameroonian"
+    }
+  },
+  "ca": {
+    "tr": {
+      "officialName": "Kanada",
+      "shortName": "Kanada",
+      "adjective": "Kanada",
+      "nationality": "Kanadalı"
+    },
+    "en": {
+      "officialName": "Canada",
+      "shortName": "Canada",
+      "adjective": "Canadian",
+      "nationality": "Canadian"
+    }
+  },
+  "me": {
+    "tr": {
+      "officialName": "Karadağ",
+      "shortName": "Karadağ",
+      "adjective": "Karadağ",
+      "nationality": "Karadağlı"
+    },
+    "en": {
+      "officialName": "Montenegro",
+      "shortName": "Montenegro",
+      "adjective": "Montenegrin",
+      "nationality": "Montenegrin"
+    }
+  },
+  "qa": {
+    "tr": {
+      "officialName": "Katar Devleti",
+      "shortName": "Katar",
+      "adjective": "Katar",
+      "nationality": "Katarlı"
+    },
+    "en": {
+      "officialName": "State Of Qatar",
+      "shortName": "Qatar",
+      "adjective": "Qatari",
+      "nationality": "Qatari"
+    }
+  },
+  "kz": {
+    "tr": {
+      "officialName": "Kazakistan Cumhuriyeti",
+      "shortName": "Kazakistan",
+      "adjective": "Kazak",
+      "nationality": "Kazak"
+    },
+    "en": {
+      "officialName": "Republic Of Kazakhstan",
+      "shortName": "Kazakhstan",
+      "adjective": "Kazakhstani",
+      "nationality": "Kazakhistani"
+    }
+  },
+  "ke": {
+    "tr": {
+      "officialName": "Kenya Cumhuriyeti",
+      "shortName": "Kenya",
+      "adjective": "Kenya",
+      "nationality": "Kenyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Kenya",
+      "shortName": "Kenya",
+      "adjective": "Kenyan",
+      "nationality": "Kenyan"
+    }
+  },
+  "kg": {
+    "tr": {
+      "officialName": "Kırgız Cumhuriyeti",
+      "shortName": "Kırgızistan",
+      "adjective": "Kırgız",
+      "nationality": "Kırgız"
+    },
+    "en": {
+      "officialName": "Kyrgyz Republic",
+      "shortName": "Kyrgyz Republic",
+      "adjective": "Kyrgyz",
+      "nationality": "Kyrgyz"
+    }
+  },
+  "kı": {
+    "tr": {
+      "officialName": "Kiribati Cumhuriyeti",
+      "shortName": "Kiribati",
+      "adjective": "Kiribati",
+      "nationality": "Kiribatili"
+    },
+    "en": {
+      "officialName": "Republic Of Kiribati",
+      "shortName": "Kiribati",
+      "adjective": "Kiribati",
+      "nationality": "Kiribati"
+    }
+  },
+  "co": {
+    "tr": {
+      "officialName": "Kolombiya Cumhuriyeti",
+      "shortName": "Kolombiya",
+      "adjective": "Kolombiya",
+      "nationality": "Kolombiyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Colombia",
+      "shortName": "Colombia",
+      "adjective": "Colombian",
+      "nationality": "Colombian"
+    }
+  },
+  "km": {
+    "tr": {
+      "officialName": "Komorlar Birliği",
+      "shortName": "Komor",
+      "adjective": "Komor",
+      "nationality": "Komorlu"
+    },
+    "en": {
+      "officialName": "Union Of The Comoros",
+      "shortName": "Comoros",
+      "adjective": "Comorian",
+      "nationality": "Comorian"
+    }
+  },
+  "cg": {
+    "tr": {
+      "officialName": "Kongo Cumhuriyeti",
+      "shortName": "Kongo",
+      "adjective": "Kongo",
+      "nationality": "Kongolu"
+    },
+    "en": {
+      "officialName": "Republic Of Congo",
+      "shortName": "Congo",
+      "adjective": "Congolese",
+      "nationality": "Congolese"
+    }
+  },
+  "cd": {
+    "tr": {
+      "officialName": "Kongo Demokratik Cumhuriyeti",
+      "shortName": "Demokratik Kongo",
+      "adjective": "Demokratik Kongo",
+      "nationality": "Demokratik Kongolu"
+    },
+    "en": {
+      "officialName": "Democratic Republic Of The Congo",
+      "shortName": "Democratic Congo",
+      "adjective": "Congolese",
+      "nationality": "Congolese"
+    }
+  },
+  "kr": {
+    "tr": {
+      "officialName": "Kore Cumhuriyeti",
+      "shortName": "Güney Kore",
+      "adjective": "Güney Kore",
+      "nationality": "Güney Koreli"
+    },
+    "en": {
+      "officialName": "Republic Of Korea",
+      "shortName": "South Korea",
+      "adjective": "Korean",
+      "nationality": "Korean"
+    }
+  },
+  "kp": {
+    "tr": {
+      "officialName": "Kore Demokratik Halk Cumhuriyeti",
+      "shortName": "Kuzey Kore",
+      "adjective": "Kuzey Kore",
+      "nationality": "Kuzey Koreli"
+    },
+    "en": {
+      "officialName": "Democratic People#S Republic Of Korea",
+      "shortName": "North Korea",
+      "adjective": "North Korean",
+      "nationality": "North Korean"
+    }
+  },
+  "xk": {
+    "tr": {
+      "officialName": "Kosova Cumhuriyeti",
+      "shortName": "Kosova",
+      "adjective": "Kosova",
+      "nationality": "Kosovalı"
+    },
+    "en": {
+      "officialName": "Republic Of Kosovo",
+      "shortName": "Kosovo",
+      "adjective": "Kosovar",
+      "nationality": "Kosovar"
+    }
+  },
+  "cr": {
+    "tr": {
+      "officialName": "Kosta Rika Cumhuriyeti",
+      "shortName": "Kosta Rika",
+      "adjective": "Kosta Rika",
+      "nationality": "Kosta Rikalı"
+    },
+    "en": {
+      "officialName": "Republic Of Costa Rica",
+      "shortName": "Costa Rica",
+      "adjective": "Costa Rican",
+      "nationality": "Costa Rican"
+    }
+  },
+  "kw": {
+    "tr": {
+      "officialName": "Kuveyt Devleti",
+      "shortName": "Kuveyt",
+      "adjective": "Kuveyt",
+      "nationality": "Kuveytli"
+    },
+    "en": {
+      "officialName": "State Of Kuwait",
+      "shortName": "Kuwait",
+      "adjective": "Kuwaiti",
+      "nationality": "Kuwaiti"
+    }
+  },
+  "cyt": {
+    "tr": {
+      "officialName": "Kuzey Kıbrıs Türk Cumhuriyeti",
+      "shortName": "Kuzey Kıbrıs",
+      "adjective": "Kıbrıs Türk",
+      "nationality": "Kıbrıslı Türk"
+    },
+    "en": {
+      "officialName": "Turkish Republic Of Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "adjective": "Turkish Cypriot",
+      "nationality": "Turkish Cypriot"
+    }
+  },
+  "cu": {
+    "tr": {
+      "officialName": "Küba Cumhuriyeti",
+      "shortName": "Küba",
+      "adjective": "Küba",
+      "nationality": "Kübalı"
+    },
+    "en": {
+      "officialName": "Republic Of Cuba",
+      "shortName": "Cuba",
+      "adjective": "Cuban",
+      "nationality": "Cuban"
+    }
+  },
+  "la": {
+    "tr": {
+      "officialName": "Laos Demokratik Halk Cumhuriyeti",
+      "shortName": "Laos",
+      "adjective": "Laos",
+      "nationality": "Laoslu"
+    },
+    "en": {
+      "officialName": "Lao People#S Democratic Republic",
+      "shortName": "Laos",
+      "adjective": "Lao/Laotian",
+      "nationality": "Lao/Laotian"
+    }
+  },
+  "ls": {
+    "tr": {
+      "officialName": "Lesotho Krallığı",
+      "shortName": "Lesoto",
+      "adjective": "Lesoto",
+      "nationality": "Lesotolu"
+    },
+    "en": {
+      "officialName": "Kingdom Of Lesotho",
+      "shortName": "Lesotho",
+      "adjective": "Lesotho",
+      "nationality": "Mosotho (Tek.), Basotho"
+    }
+  },
+  "lv": {
+    "tr": {
+      "officialName": "Letonya Cumhuriyeti",
+      "shortName": "Letonya",
+      "adjective": "Leton",
+      "nationality": "Leton"
+    },
+    "en": {
+      "officialName": "Republic Of Latvia",
+      "shortName": "Latvia",
+      "adjective": "Latvian",
+      "nationality": "Latvian"
+    }
+  },
+  "lr": {
+    "tr": {
+      "officialName": "Liberya Cumhuriyeti",
+      "shortName": "Liberya",
+      "adjective": "Liberya",
+      "nationality": "Liberyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Liberia",
+      "shortName": "Liberia",
+      "adjective": "Liberian",
+      "nationality": "Liberian"
+    }
+  },
+  "ly": {
+    "tr": {
+      "officialName": "Libya Devleti",
+      "shortName": "Libya",
+      "adjective": "Libya",
+      "nationality": "Libyalı"
+    },
+    "en": {
+      "officialName": "State Of Libya",
+      "shortName": "Libya",
+      "adjective": "Libyan",
+      "nationality": "Libyan"
+    }
+  },
+  "lı": {
+    "tr": {
+      "officialName": "Lihtenştayn Prensliği",
+      "shortName": "Lihtenştayn",
+      "adjective": "Lihtenştayn",
+      "nationality": "Lihtenştaynlı"
+    },
+    "en": {
+      "officialName": "Principality Of Liechtenstein",
+      "shortName": "Liechtenstein",
+      "adjective": "Liechtenstein",
+      "nationality": "Liechtensteiner (E.) -Nerin (K.)"
+    }
+  },
+  "lt": {
+    "tr": {
+      "officialName": "Litvanya Cumhuriyeti",
+      "shortName": "Litvanya",
+      "adjective": "Litvan",
+      "nationality": "Litvanyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Lithuania",
+      "shortName": "Lithuania",
+      "adjective": "Lithuanian",
+      "nationality": "Lithuanian"
+    }
+  },
+  "lb": {
+    "tr": {
+      "officialName": "Lübnan Cumhuriyeti",
+      "shortName": "Lübnan",
+      "adjective": "Lübnan",
+      "nationality": "Lübnanlı"
+    },
+    "en": {
+      "officialName": "Republic Of Lebanon",
+      "shortName": "Lebanon",
+      "adjective": "Lebanese",
+      "nationality": "Lebanese"
+    }
+  },
+  "lu": {
+    "tr": {
+      "officialName": "Lüksemburg Büyük Dükalığı",
+      "shortName": "Lüksemburg",
+      "adjective": "Lüksemburg",
+      "nationality": "Lüksemburglu"
+    },
+    "en": {
+      "officialName": "Grand Duchy Of Luxembourg",
+      "shortName": "Luxembourg",
+      "adjective": "Luxembourg/-Bourgish",
+      "nationality": "Luxembourger"
+    }
+  },
+  "hu": {
+    "tr": {
+      "officialName": "Macaristan",
+      "shortName": "Macaristan",
+      "adjective": "Macar",
+      "nationality": "Macar"
+    },
+    "en": {
+      "officialName": "Hungary",
+      "shortName": "Hungary",
+      "adjective": "Hungarian",
+      "nationality": "Hungarian"
+    }
+  },
+  "mg": {
+    "tr": {
+      "officialName": "Madagaskar Cumhuriyeti",
+      "shortName": "Madagaskar",
+      "adjective": "Madagaskar",
+      "nationality": "Madagaskarlı"
+    },
+    "en": {
+      "officialName": "Republic Of Madagascar",
+      "shortName": "Madagascar",
+      "adjective": "Madagascar",
+      "nationality": "Malagasy"
+    }
+  },
+  "mk": {
+    "tr": {
+      "officialName": "Makedonya Cumhuriyeti",
+      "shortName": "Makedonya",
+      "adjective": "Makedon",
+      "nationality": "Makedonyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Macedonia",
+      "shortName": "Macedonia",
+      "adjective": "Macedonian",
+      "nationality": "Macedonian"
+    }
+  },
+  "mw": {
+    "tr": {
+      "officialName": "Malavi Cumhuriyeti",
+      "shortName": "Malavi",
+      "adjective": "Malavi",
+      "nationality": "Malavili"
+    },
+    "en": {
+      "officialName": "Republic Of Malawi",
+      "shortName": "Malawi",
+      "adjective": "Malawian",
+      "nationality": "Malawian"
+    }
+  },
+  "mv": {
+    "tr": {
+      "officialName": "Maldivler Cumhuriyeti",
+      "shortName": "Maldivler",
+      "adjective": "Maldivler",
+      "nationality": "Maldivli"
+    },
+    "en": {
+      "officialName": "Republic Of Maldives",
+      "shortName": "Maldives",
+      "adjective": "Maldivian",
+      "nationality": "Maldivian"
+    }
+  },
+  "my": {
+    "tr": {
+      "officialName": "Malezya",
+      "shortName": "Malezya",
+      "adjective": "Malezya",
+      "nationality": "Malezyalı"
+    },
+    "en": {
+      "officialName": "Malaysia",
+      "shortName": "Malaysia",
+      "adjective": "Malaysian",
+      "nationality": "Malaysian"
+    }
+  },
+  "ml": {
+    "tr": {
+      "officialName": "Mali Cumhuriyeti",
+      "shortName": "Mali",
+      "adjective": "Mali",
+      "nationality": "Malili"
+    },
+    "en": {
+      "officialName": "Republic Of Mali",
+      "shortName": "Mali",
+      "adjective": "Mali",
+      "nationality": "Malian"
+    }
+  },
+  "mt": {
+    "tr": {
+      "officialName": "Malta Cumhuriyeti",
+      "shortName": "Malta",
+      "adjective": "Malta",
+      "nationality": "Maltalı"
+    },
+    "en": {
+      "officialName": "Republic Of Malta",
+      "shortName": "Malta",
+      "adjective": "Maltese",
+      "nationality": "Maltese"
+    }
+  },
+  "mh": {
+    "tr": {
+      "officialName": "Marşal Adaları Cumhuriyeti",
+      "shortName": "Marşal Adaları",
+      "adjective": "Marşal Adaları",
+      "nationality": "Marşallı"
+    },
+    "en": {
+      "officialName": "Republic Of The Marshall Islands",
+      "shortName": "Marshall Islands",
+      "adjective": "Marshallese",
+      "nationality": "Marshallese"
+    }
+  },
+  "mu": {
+    "tr": {
+      "officialName": "Mauritius Cumhuriyeti",
+      "shortName": "Mauritius",
+      "adjective": "Mauritius",
+      "nationality": "Mauritiuslu"
+    },
+    "en": {
+      "officialName": "Republic Of Mauritius",
+      "shortName": "Mauritius",
+      "adjective": "Mauritian",
+      "nationality": "Mauritian"
+    }
+  },
+  "eg": {
+    "tr": {
+      "officialName": "Mısır Arap Cumhuriyeti",
+      "shortName": "Mısır",
+      "adjective": "Mısır",
+      "nationality": "Mısırlı"
+    },
+    "en": {
+      "officialName": "Arab Republic Of Egypt",
+      "shortName": "Egypt",
+      "adjective": "Egyptian",
+      "nationality": "Egyptian"
+    }
+  },
+  "fm": {
+    "tr": {
+      "officialName": "Mikronezya Federe Devletleri",
+      "shortName": "Mikronezya",
+      "adjective": "Mikronezya",
+      "nationality": "Mikronezyalı"
+    },
+    "en": {
+      "officialName": "Federated States Of Micronesia",
+      "shortName": "Micronesia",
+      "adjective": "Micronesian",
+      "nationality": "Micronesian"
+    }
+  },
+  "mn": {
+    "tr": {
+      "officialName": "Moğolistan",
+      "shortName": "Moğolistan",
+      "adjective": "Moğol",
+      "nationality": "Moğol"
+    },
+    "en": {
+      "officialName": "Mongolia",
+      "shortName": "Mongolia",
+      "adjective": "Mongolian",
+      "nationality": "Mongolian"
+    }
+  },
+  "md": {
+    "tr": {
+      "officialName": "Moldova Cumhuriyeti",
+      "shortName": "Moldova",
+      "adjective": "Moldova",
+      "nationality": "Moldovalı"
+    },
+    "en": {
+      "officialName": "Republic Of Moldova",
+      "shortName": "Moldova",
+      "adjective": "Moldovan",
+      "nationality": "Moldovan"
+    }
+  },
+  "mc": {
+    "tr": {
+      "officialName": "Monako Prensliği",
+      "shortName": "Monako",
+      "adjective": "Monako",
+      "nationality": "Monakolu"
+    },
+    "en": {
+      "officialName": "Principality Of Monaco",
+      "shortName": "Monaco",
+      "adjective": "Monacan",
+      "nationality": "Monacan"
+    }
+  },
+  "mr": {
+    "tr": {
+      "officialName": "Moritanya İslam Cumhuriyeti",
+      "shortName": "Moritanya",
+      "adjective": "Moritanya",
+      "nationality": "Moritanyalı"
+    },
+    "en": {
+      "officialName": "Islamic Republic Of Mauritania",
+      "shortName": "Mauritania",
+      "adjective": "Mauritanian",
+      "nationality": "Mauritanian"
+    }
+  },
+  "mz": {
+    "tr": {
+      "officialName": "Mozambik Cumhuriyeti",
+      "shortName": "Mozambik",
+      "adjective": "Mozambik",
+      "nationality": "Mozambikli"
+    },
+    "en": {
+      "officialName": "Republic Of Mozambique",
+      "shortName": "Mozambique",
+      "adjective": "Mozambican",
+      "nationality": "Mozambican"
+    }
+  },
+  "mm": {
+    "tr": {
+      "officialName": "Myanmar Birliği Cumhuriyeti",
+      "shortName": "Myanmar",
+      "adjective": "Myanmar",
+      "nationality": "Myanmarlı"
+    },
+    "en": {
+      "officialName": "Republic Of The Union Of Myanmar",
+      "shortName": "Myanmar",
+      "adjective": "Myanmarese",
+      "nationality": "Burmese / Myanmarese"
+    }
+  },
+  "na": {
+    "tr": {
+      "officialName": "Namibya Cumhuriyeti",
+      "shortName": "Namibya",
+      "adjective": "Namibya",
+      "nationality": "Namibyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Namibia",
+      "shortName": "Namibia",
+      "adjective": "Namibian",
+      "nationality": "Namibian"
+    }
+  },
+  "nr": {
+    "tr": {
+      "officialName": "Nauru Cumhuriyeti",
+      "shortName": "Nauru",
+      "adjective": "Nauru",
+      "nationality": "Naurulu"
+    },
+    "en": {
+      "officialName": "Republic Of Nauru",
+      "shortName": "Nauru",
+      "adjective": "Nauruan",
+      "nationality": "Nauruan"
+    }
+  },
+  "np": {
+    "tr": {
+      "officialName": "Nepal Federal Demokratik Cumhuriyeti",
+      "shortName": "Nepal",
+      "adjective": "Nepal",
+      "nationality": "Nepalli"
+    },
+    "en": {
+      "officialName": "Federal Democratic Republic Of Nepal",
+      "shortName": "Nepal",
+      "adjective": "Nepalese/Nepali",
+      "nationality": "Nepalese/Nepali"
+    }
+  },
+  "ne": {
+    "tr": {
+      "officialName": "Nijer Cumhuriyeti",
+      "shortName": "Nijer",
+      "adjective": "Nijer",
+      "nationality": "Nijerli"
+    },
+    "en": {
+      "officialName": "Republic Of Niger",
+      "shortName": "Niger",
+      "adjective": "Nigerien",
+      "nationality": "Nigerien"
+    }
+  },
+  "ng": {
+    "tr": {
+      "officialName": "Nijerya Federal Cumhuriyeti",
+      "shortName": "Nijerya",
+      "adjective": "Nijerya",
+      "nationality": "Nijeryalı"
+    },
+    "en": {
+      "officialName": "Federal Republic Of Nigeria",
+      "shortName": "Nigeria",
+      "adjective": "Nigerian",
+      "nationality": "Nigerian"
+    }
+  },
+  "nı": {
+    "tr": {
+      "officialName": "Nikaragua Cumhuriyeti",
+      "shortName": "Nikaragua",
+      "adjective": "Nikaragua",
+      "nationality": "Nikaragualı"
+    },
+    "en": {
+      "officialName": "Republic Of Nicaragua",
+      "shortName": "Nicaragua",
+      "adjective": "Nicaraguan",
+      "nationality": "Nicaraguan"
+    }
+  },
+  "no": {
+    "tr": {
+      "officialName": "Norveç Krallığı",
+      "shortName": "Norveç",
+      "adjective": "Norveç",
+      "nationality": "Norveçli"
+    },
+    "en": {
+      "officialName": "Kingdom Of Norway",
+      "shortName": "Norway",
+      "adjective": "Norwegian",
+      "nationality": "Norwegian"
+    }
+  },
+  "cf": {
+    "tr": {
+      "officialName": "Orta Afrika Cumhuriyeti",
+      "shortName": "Orta Afrika",
+      "adjective": "Orta Afrika",
+      "nationality": "Orta Afrikalı"
+    },
+    "en": {
+      "officialName": "Central African Republic",
+      "shortName": "Central Africa",
+      "adjective": "Central African",
+      "nationality": "Central African"
+    }
+  },
+  "uz": {
+    "tr": {
+      "officialName": "Özbekistan Cumhuriyeti",
+      "shortName": "Özbekistan",
+      "adjective": "Özbek",
+      "nationality": "Özbek"
+    },
+    "en": {
+      "officialName": "Republic Of Uzbekistan",
+      "shortName": "Uzbekistan",
+      "adjective": "Uzbekistani",
+      "nationality": "Uzbek"
+    }
+  },
+  "pk": {
+    "tr": {
+      "officialName": "Pakistan İslam Cumhuriyeti",
+      "shortName": "Pakistan",
+      "adjective": "Pakistan",
+      "nationality": "Pakistanlı"
+    },
+    "en": {
+      "officialName": "Islamic Republic Of Pakistan",
+      "shortName": "Pakistan",
+      "adjective": "Pakistani",
+      "nationality": "Pakistan/Pakistani"
+    }
+  },
+  "pw": {
+    "tr": {
+      "officialName": "Palau Cumhuriyeti",
+      "shortName": "Palau",
+      "adjective": "Palau",
+      "nationality": "Palaulu"
+    },
+    "en": {
+      "officialName": "Republic Of Palau",
+      "shortName": "Palau",
+      "adjective": "Palauan",
+      "nationality": "Palauan"
+    }
+  },
+  "pa": {
+    "tr": {
+      "officialName": "Panama Cumhuriyeti",
+      "shortName": "Panama",
+      "adjective": "Panama",
+      "nationality": "Panamalı"
+    },
+    "en": {
+      "officialName": "Republic Of Panama",
+      "shortName": "Panama",
+      "adjective": "Panamanian",
+      "nationality": "Panamanian"
+    }
+  },
+  "pg": {
+    "tr": {
+      "officialName": "Papua Yeni Gine Bağımsız Devleti",
+      "shortName": "Papua Yeni Gine",
+      "adjective": "Papua Yeni Gine",
+      "nationality": "Papua Yeni Gineli"
+    },
+    "en": {
+      "officialName": "The Independent State Of Papua New Guinea",
+      "shortName": "Papua New Guinea",
+      "adjective": "Papua New Guinean",
+      "nationality": "Papua New Guinean"
+    }
+  },
+  "py": {
+    "tr": {
+      "officialName": "Paraguay Cumhuriyeti",
+      "shortName": "Paraguay",
+      "adjective": "Paraguay",
+      "nationality": "Paraguaylı"
+    },
+    "en": {
+      "officialName": "Republic Of Paraguay",
+      "shortName": "Paraguay",
+      "adjective": "Paraguayan",
+      "nationality": "Paraguayan"
+    }
+  },
+  "pe": {
+    "tr": {
+      "officialName": "Peru Cumhuriyeti",
+      "shortName": "Peru",
+      "adjective": "Peru",
+      "nationality": "Perulu"
+    },
+    "en": {
+      "officialName": "Republic Of Peru",
+      "shortName": "Peru",
+      "adjective": "Peruvian",
+      "nationality": "Peruvian"
+    }
+  },
+  "pl": {
+    "tr": {
+      "officialName": "Polonya Cumhuriyeti",
+      "shortName": "Polonya",
+      "adjective": "Polonya",
+      "nationality": "Polonyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Poland",
+      "shortName": "Poland",
+      "adjective": "Polish",
+      "nationality": "Polish/Pole"
+    }
+  },
+  "pt": {
+    "tr": {
+      "officialName": "Portekiz Cumhuriyeti",
+      "shortName": "Portekiz",
+      "adjective": "Portekiz",
+      "nationality": "Portekizli"
+    },
+    "en": {
+      "officialName": "Portuguese Republic",
+      "shortName": "Portugal",
+      "adjective": "Portuguese",
+      "nationality": "Portuguese"
+    }
+  },
+  "ro": {
+    "tr": {
+      "officialName": "Romanya",
+      "shortName": "Romanya",
+      "adjective": "Romen/Rumen",
+      "nationality": "Romen/Rumen"
+    },
+    "en": {
+      "officialName": "Romania",
+      "shortName": "Romania",
+      "adjective": "Romanian",
+      "nationality": "Romanian"
+    }
+  },
+  "rw": {
+    "tr": {
+      "officialName": "Ruanda Cumhuriyeti",
+      "shortName": "Ruanda",
+      "adjective": "Ruanda",
+      "nationality": "Ruandalı"
+    },
+    "en": {
+      "officialName": "Republic Of Rwanda",
+      "shortName": "Rwanda",
+      "adjective": "Rwandese",
+      "nationality": "Rwandese"
+    }
+  },
+  "ru": {
+    "tr": {
+      "officialName": "Rusya Federasyonu",
+      "shortName": "Rusya",
+      "adjective": "Rus",
+      "nationality": "Rus"
+    },
+    "en": {
+      "officialName": "Russian Federation",
+      "shortName": "Russia",
+      "adjective": "Russian",
+      "nationality": "Russian"
+    }
+  },
+  "kn": {
+    "tr": {
+      "officialName": "Saint Kitts Ve Nevis Federasyonu",
+      "shortName": "Saint Kitts Ve Nevis",
+      "adjective": "Saint Kitts Ve Nevis",
+      "nationality": "Saint Kitts Ve Nevisli"
+    },
+    "en": {
+      "officialName": "Federation Of Saint Kitts And Nevis",
+      "shortName": "Saint Kitts And Nevis",
+      "adjective": "Kittitian, Nevisian",
+      "nationality": "Kittitian, Nevisian"
+    }
+  },
+  "lc": {
+    "tr": {
+      "officialName": "Saint Lucia",
+      "shortName": "Saint Lucia",
+      "adjective": "Saint Lucia",
+      "nationality": "Saint Lucialı"
+    },
+    "en": {
+      "officialName": "Saint Lucia",
+      "shortName": "Saint Lucia",
+      "adjective": "Saint Lucian",
+      "nationality": "Saint Lucian"
+    }
+  },
+  "vc": {
+    "tr": {
+      "officialName": "Saint Vincent Ve Grenadinler",
+      "shortName": "Saint Vincent Ve Grenadinler",
+      "adjective": "Saint Vincent Ve Grenadinler",
+      "nationality": "Saint Vincent Ve Grenadinlerli"
+    },
+    "en": {
+      "officialName": "Saint Vincent And The Grenadines",
+      "shortName": "Saint Vincent And The Grenadines",
+      "adjective": "Saint Vincentian",
+      "nationality": "Saint Vincentian"
+    }
+  },
+  "ws": {
+    "tr": {
+      "officialName": "Samoa Bağımsız Devleti",
+      "shortName": "Samoa",
+      "adjective": "Samoa",
+      "nationality": "Samoalı"
+    },
+    "en": {
+      "officialName": "Independent State Of Samoa",
+      "shortName": "Samoa",
+      "adjective": "Samoan",
+      "nationality": "Samoan"
+    }
+  },
+  "sm": {
+    "tr": {
+      "officialName": "San Marino Cumhuriyeti",
+      "shortName": "San Marino",
+      "adjective": "San Marino",
+      "nationality": "San Marinolu"
+    },
+    "en": {
+      "officialName": "Republic Of San Marino",
+      "shortName": "San Marino",
+      "adjective": "San Marino",
+      "nationality": "Sammarinese"
+    }
+  },
+  "st": {
+    "tr": {
+      "officialName": "Sao Tome Ve Principe Demokratik Cumhuriyeti",
+      "shortName": "Sao Tome Ve Principe",
+      "adjective": "Sao Tome Ve Principe",
+      "nationality": "Sao Tome Ve Principeli"
+    },
+    "en": {
+      "officialName": "Democratic Republic Of São Tomé And Príncipe",
+      "shortName": "São Tomé And Príncipe",
+      "adjective": "São Tomé And Príncipe",
+      "nationality": "Sao Tome And Principe"
+    }
+  },
+  "sn": {
+    "tr": {
+      "officialName": "Senegal Cumhuriyeti",
+      "shortName": "Senegal",
+      "adjective": "Senegal",
+      "nationality": "Senegalli"
+    },
+    "en": {
+      "officialName": "Republic Of Senegal",
+      "shortName": "Senegal",
+      "adjective": "Senegalese",
+      "nationality": "Senegalese"
+    }
+  },
+  "sc": {
+    "tr": {
+      "officialName": "Seyşeller Cumhuriyeti",
+      "shortName": "Seyşeller",
+      "adjective": "Seyşeller",
+      "nationality": "Seyşelli"
+    },
+    "en": {
+      "officialName": "Republic Of Seychelles",
+      "shortName": "Seychelles",
+      "adjective": "Seychelles",
+      "nationality": "Seychellois"
+    }
+  },
+  "rs": {
+    "tr": {
+      "officialName": "Sırbistan Cumhuriyeti",
+      "shortName": "Sırbistan",
+      "adjective": "Sırp",
+      "nationality": "Sırp"
+    },
+    "en": {
+      "officialName": "Republic Of Serbia",
+      "shortName": "Serbia",
+      "adjective": "Serbian",
+      "nationality": "Serbian"
+    }
+  },
+  "sl": {
+    "tr": {
+      "officialName": "Sierra Leone Cumhuriyeti",
+      "shortName": "Sierra Leone",
+      "adjective": "Sierra Leone",
+      "nationality": "Sierra Leoneli"
+    },
+    "en": {
+      "officialName": "Republic Of Sierra Leone",
+      "shortName": "Sierra Leone",
+      "adjective": "Sierra Leonean",
+      "nationality": "Sierra Leonean"
+    }
+  },
+  "sg": {
+    "tr": {
+      "officialName": "Singapur Cumhuriyeti",
+      "shortName": "Singapur",
+      "adjective": "Singapur",
+      "nationality": "Singapurlu"
+    },
+    "en": {
+      "officialName": "Republic Of Singapore",
+      "shortName": "Singapore",
+      "adjective": "Singaporean",
+      "nationality": "Singaporean"
+    }
+  },
+  "sk": {
+    "tr": {
+      "officialName": "Slovak Cumhuriyeti",
+      "shortName": "Slovakya",
+      "adjective": "Slovak",
+      "nationality": "Slovak"
+    },
+    "en": {
+      "officialName": "Slovak Republic",
+      "shortName": "Slovakia",
+      "adjective": "Slovakian",
+      "nationality": "Slovak"
+    }
+  },
+  "sı": {
+    "tr": {
+      "officialName": "Slovenya Cumhuriyeti",
+      "shortName": "Slovenya",
+      "adjective": "Sloven",
+      "nationality": "Sloven"
+    },
+    "en": {
+      "officialName": "Republic Of Slovenia",
+      "shortName": "Slovenia",
+      "adjective": "Slovenian",
+      "nationality": "Slovenian"
+    }
+  },
+  "sb": {
+    "tr": {
+      "officialName": "Solomon Adaları",
+      "shortName": "Solomon Adaları",
+      "adjective": "Solomon Adaları",
+      "nationality": "Solomonlu"
+    },
+    "en": {
+      "officialName": "Solomon Islands",
+      "shortName": "Solomon Islands",
+      "adjective": "Solomon Islands",
+      "nationality": "Solomon Islander"
+    }
+  },
+  "so": {
+    "tr": {
+      "officialName": "Somali Federal Cumhuriyeti",
+      "shortName": "Somali",
+      "adjective": "Somali",
+      "nationality": "Somalili"
+    },
+    "en": {
+      "officialName": "Federal Republic Of Somalia",
+      "shortName": "Somali",
+      "adjective": "Somali",
+      "nationality": "Somali"
+    }
+  },
+  "lk": {
+    "tr": {
+      "officialName": "Sri Lanka Demokratik Sosyalist Cumhuriyeti",
+      "shortName": "Sri Lanka",
+      "adjective": "Sri Lanka",
+      "nationality": "Sri Lankalı"
+    },
+    "en": {
+      "officialName": "Democratic Socialist Republic Of Sri Lanka",
+      "shortName": "Sri Lanka",
+      "adjective": "Sri Lanka",
+      "nationality": "Sri Lankan"
+    }
+  },
+  "sd": {
+    "tr": {
+      "officialName": "Sudan Cumhuriyeti",
+      "shortName": "Sudan",
+      "adjective": "Sudan",
+      "nationality": "Sudanlı"
+    },
+    "en": {
+      "officialName": "Republic Of The Sudan",
+      "shortName": "Sudan",
+      "adjective": "Sudanese",
+      "nationality": "Sudanese"
+    }
+  },
+  "sr": {
+    "tr": {
+      "officialName": "Surinam Cumhuriyeti",
+      "shortName": "Surinam",
+      "adjective": "Surinam",
+      "nationality": "Surinamlı"
+    },
+    "en": {
+      "officialName": "Republic Of Suriname",
+      "shortName": "Suriname",
+      "adjective": "Surinamese",
+      "nationality": "Surinamese"
+    }
+  },
+  "sy": {
+    "tr": {
+      "officialName": "Suriye Arap Cumhuriyeti",
+      "shortName": "Suriye",
+      "adjective": "Suriye",
+      "nationality": "Suriyeli"
+    },
+    "en": {
+      "officialName": "Syrian Arab Republic",
+      "shortName": "Syria",
+      "adjective": "Syrian",
+      "nationality": "Syrian"
+    }
+  },
+  "sa": {
+    "tr": {
+      "officialName": "Suudi Arabistan Krallığı",
+      "shortName": "Suudi Arabistan",
+      "adjective": "Suudi Arabistan",
+      "nationality": "Suudi"
+    },
+    "en": {
+      "officialName": "Kingdom Of Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "adjective": "Saudi Arabian",
+      "nationality": "Saudi Arabian"
+    }
+  },
+  "sz": {
+    "tr": {
+      "officialName": "Svaziland Krallığı",
+      "shortName": "Svaziland",
+      "adjective": "Svaziland",
+      "nationality": "Svazilandlı"
+    },
+    "en": {
+      "officialName": "Kingdom Of Swaziland",
+      "shortName": "Kingdom Of Swaziland",
+      "adjective": "Swaziland",
+      "nationality": "Swazi"
+    }
+  },
+  "cl": {
+    "tr": {
+      "officialName": "Şili Cumhuriyeti",
+      "shortName": "Şili",
+      "adjective": "Şili",
+      "nationality": "Şilili"
+    },
+    "en": {
+      "officialName": "Republic Of Chile",
+      "shortName": "Chile",
+      "adjective": "Chilean",
+      "nationality": "Chilean"
+    }
+  },
+  "tj": {
+    "tr": {
+      "officialName": "Tacikistan Cumhuriyeti",
+      "shortName": "Tacikistan",
+      "adjective": "Tacik",
+      "nationality": "Tacik"
+    },
+    "en": {
+      "officialName": "Republic Of Tajikistan",
+      "shortName": "Tajikistan",
+      "adjective": "Tajikistan",
+      "nationality": "Tajik"
+    }
+  },
+  "tz": {
+    "tr": {
+      "officialName": "Tanzanya Birleşik Cumhuriyeti",
+      "shortName": "Tanzanya",
+      "adjective": "Tanzanya",
+      "nationality": "Tanzanyalı"
+    },
+    "en": {
+      "officialName": "United Republic Of Tanzania",
+      "shortName": "Tanzania",
+      "adjective": "Tanzanian",
+      "nationality": "Tanzanian"
+    }
+  },
+  "th": {
+    "tr": {
+      "officialName": "Tayland Krallığı",
+      "shortName": "Tayland",
+      "adjective": "Tayland",
+      "nationality": "Taylandlı"
+    },
+    "en": {
+      "officialName": "Kingdom Of Thailand",
+      "shortName": "Thailand",
+      "adjective": "Thai",
+      "nationality": "Thai"
+    }
+  },
+  "tg": {
+    "tr": {
+      "officialName": "Togo Cumhuriyeti",
+      "shortName": "Togo",
+      "adjective": "Togo",
+      "nationality": "Togolu"
+    },
+    "en": {
+      "officialName": "Togolese Republic",
+      "shortName": "Togo",
+      "adjective": "Togolese",
+      "nationality": "Togolese"
+    }
+  },
+  "to": {
+    "tr": {
+      "officialName": "Tonga Krallığı",
+      "shortName": "Tonga",
+      "adjective": "Tonga",
+      "nationality": "Tongalı"
+    },
+    "en": {
+      "officialName": "Kingdom Of Tonga",
+      "shortName": "Tonga",
+      "adjective": "Tongan",
+      "nationality": "Tongan"
+    }
+  },
+  "tt": {
+    "tr": {
+      "officialName": "Trinidad Ve Tobago Cumhuriyeti",
+      "shortName": "Trinidad Ve Tobago",
+      "adjective": "Trinidad Ve Tobago",
+      "nationality": "Trinidad Ve Tobagolu"
+    },
+    "en": {
+      "officialName": "Republic Of Trinidad And Tobago",
+      "shortName": "Trinidad And Tobago",
+      "adjective": "Trinidadian, Tobagonian",
+      "nationality": "Trinidadian, Tobagonian"
+    }
+  },
+  "tn": {
+    "tr": {
+      "officialName": "Tunus Cumhuriyeti",
+      "shortName": "Tunus",
+      "adjective": "Tunus",
+      "nationality": "Tunuslu"
+    },
+    "en": {
+      "officialName": "Republic Of Tunisia",
+      "shortName": "Tunisia",
+      "adjective": "Tunisian",
+      "nationality": "Tunisian"
+    }
+  },
+  "tv": {
+    "tr": {
+      "officialName": "Tuvalu",
+      "shortName": "Tuvalu",
+      "adjective": "Tuvalu",
+      "nationality": "Tuvalulu"
+    },
+    "en": {
+      "officialName": "Tuvalu",
+      "shortName": "Tuvalu",
+      "adjective": "Tuvaluan",
+      "nationality": "Tuvaluan"
+    }
+  },
+  "tr": {
+    "tr": {
+      "officialName": "Türkiye Cumhuriyeti",
+      "shortName": "Türkiye",
+      "adjective": "Türk",
+      "nationality": "Türk"
+    },
+    "en": {
+      "officialName": "Republic Of Turkey",
+      "shortName": "Turkey",
+      "adjective": "Turkish",
+      "nationality": "Turk"
+    }
+  },
+  "tm": {
+    "tr": {
+      "officialName": "Türkmenistan",
+      "shortName": "Türkmenistan",
+      "adjective": "Türkmen",
+      "nationality": "Türkmen"
+    },
+    "en": {
+      "officialName": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "adjective": "Turkmenistan",
+      "nationality": "Turkmen"
+    }
+  },
+  "ug": {
+    "tr": {
+      "officialName": "Uganda Cumhuriyeti",
+      "shortName": "Uganda",
+      "adjective": "Uganda",
+      "nationality": "Ugandalı"
+    },
+    "en": {
+      "officialName": "The Republic Of Uganda",
+      "shortName": "Uganda",
+      "adjective": "Ugandan",
+      "nationality": "Ugandan"
+    }
+  },
+  "ua": {
+    "tr": {
+      "officialName": "Ukrayna",
+      "shortName": "Ukrayna",
+      "adjective": "Ukrayna",
+      "nationality": "Ukraynalı"
+    },
+    "en": {
+      "officialName": "Ukraine",
+      "shortName": "Ukraine",
+      "adjective": "Ukrainian",
+      "nationality": "Ukrainian"
+    }
+  },
+  "om": {
+    "tr": {
+      "officialName": "Umman Sultanlığı",
+      "shortName": "Umman",
+      "adjective": "Umman",
+      "nationality": "Ummanlı"
+    },
+    "en": {
+      "officialName": "Sultanate Of Oman",
+      "shortName": "Oman",
+      "adjective": "Omani",
+      "nationality": "Omani"
+    }
+  },
+  "uy": {
+    "tr": {
+      "officialName": "Uruguay Doğu Cumhuriyeti",
+      "shortName": "Uruguay",
+      "adjective": "Uruguay",
+      "nationality": "Uruguaylı"
+    },
+    "en": {
+      "officialName": "Oriental Republic Of Uruguay",
+      "shortName": "Uruguay",
+      "adjective": "Uruguayan",
+      "nationality": "Uruguayan"
+    }
+  },
+  "jo": {
+    "tr": {
+      "officialName": "Ürdün Haşimi Krallığı",
+      "shortName": "Ürdün",
+      "adjective": "Ürdün",
+      "nationality": "Ürdünlü"
+    },
+    "en": {
+      "officialName": "Hashemite Kingdom Of Jordan",
+      "shortName": "Jordan",
+      "adjective": "Jordanian",
+      "nationality": "Jordanian"
+    }
+  },
+  "vu": {
+    "tr": {
+      "officialName": "Vanuatu Cumhuriyeti",
+      "shortName": "Vanuatu",
+      "adjective": "Vanuatu",
+      "nationality": "Vanuatulu"
+    },
+    "en": {
+      "officialName": "Republic Of Vanuatu",
+      "shortName": "Vanuatu",
+      "adjective": "Vanuatu",
+      "nationality": "Vanuatu"
+    }
+  },
+  "va": {
+    "tr": {
+      "officialName": "Vatikan",
+      "shortName": "Vatikan",
+      "adjective": "Vatikan",
+      "nationality": "Vatikan Vatandaşı"
+    },
+    "en": {
+      "officialName": "Vatican City State /The Holy See",
+      "shortName": "Vatican/The Holy See",
+      "adjective": "Vatican",
+      "nationality": "Vatican Citizen"
+    }
+  },
+  "vn": {
+    "tr": {
+      "officialName": "Vietnam Sosyalist Cumhuriyeti",
+      "shortName": "Vietnam",
+      "adjective": "Vietnam",
+      "nationality": "Vietnamlı"
+    },
+    "en": {
+      "officialName": "Socialist Republic Of Vietnam",
+      "shortName": "Vietnam",
+      "adjective": "Vietnamese",
+      "nationality": "Vietnamese"
+    }
+  },
+  "ye": {
+    "tr": {
+      "officialName": "Yemen Cumhuriyeti",
+      "shortName": "Yemen",
+      "adjective": "Yemen",
+      "nationality": "Yemenli"
+    },
+    "en": {
+      "officialName": "Republic Of Yemen",
+      "shortName": "Yemen",
+      "adjective": "Yemeni",
+      "nationality": "Yemeni"
+    }
+  },
+  "nz": {
+    "tr": {
+      "officialName": "Yeni Zelanda",
+      "shortName": "Yeni Zelanda",
+      "adjective": "Yeni Zelanda",
+      "nationality": "Yeni Zelandalı"
+    },
+    "en": {
+      "officialName": "New Zealand",
+      "shortName": "New Zealand",
+      "adjective": "New Zealand",
+      "nationality": "New Zealander"
+    }
+  },
+  "cv": {
+    "tr": {
+      "officialName": "Yeşil Burun Cumhuriyeti",
+      "shortName": "Yeşil Burun",
+      "adjective": "Yeşil Burun",
+      "nationality": "Yeşil Burunlu"
+    },
+    "en": {
+      "officialName": "Republic Of Cape Verde",
+      "shortName": "Cape Verde",
+      "adjective": "Cape Verdian",
+      "nationality": "Cape Verdian"
+    }
+  },
+  "gr": {
+    "tr": {
+      "officialName": "Yunanistan Cumhuriyeti",
+      "shortName": "Yunanistan",
+      "adjective": "Yunan",
+      "nationality": "Yunan"
+    },
+    "en": {
+      "officialName": "Hellenic Republic",
+      "shortName": "Greece",
+      "adjective": "Greek",
+      "nationality": "Greek"
+    }
+  },
+  "zm": {
+    "tr": {
+      "officialName": "Zambiya Cumhuriyeti",
+      "shortName": "Zambiya",
+      "adjective": "Zambiya",
+      "nationality": "Zambiyalı"
+    },
+    "en": {
+      "officialName": "Republic Of Zambia",
+      "shortName": "Zambia",
+      "adjective": "Zambian",
+      "nationality": "Zambian"
+    }
+  },
+  "zw": {
+    "tr": {
+      "officialName": "Zimbabve Cumhuriyeti",
+      "shortName": "Zimbabve",
+      "adjective": "Zimbabve",
+      "nationality": "Zimbabveli"
+    },
+    "en": {
+      "officialName": "Republic Of Zimbabwe",
+      "shortName": "Zimbabwe",
+      "adjective": "Zimbabwean",
+      "nationality": "Zimbabwean"
+    }
+  }
+}
